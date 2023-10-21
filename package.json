@@ -1,0 +1,78 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.10.14",
+    "@mui/x-data-grid": "^5.17.12",
+    "@paypal/react-paypal-js": "^7.8.2",
+    "@reduxjs/toolkit": "^1.9.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@tiptap/extension-color": "^2.0.3",
+    "@tiptap/extension-document": "^2.0.3",
+    "@tiptap/extension-dropcursor": "^2.0.3",
+    "@tiptap/extension-image": "^2.0.3",
+    "@tiptap/extension-list-item": "^2.0.3",
+    "@tiptap/extension-text-style": "^2.0.3",
+    "@tiptap/pm": "^2.0.3",
+    "@tiptap/react": "^2.0.3",
+    "@tiptap/starter-kit": "^2.0.3",
+    "axios": "^1.1.3",
+    "body-scroll-lock": "^4.0.0-beta.0",
+    "dotenv": "^16.0.3",
+    "framer-motion": "^7.10.2",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-fade-in": "^2.0.1",
+    "react-hot-toast": "^2.4.0",
+    "react-icons": "^4.6.0",
+    "react-image-magnify": "^2.7.4",
+    "react-img-zoom": "^0.1.0",
+    "react-paypal-button-v2": "^2.6.3",
+    "react-phone-number-input": "^3.2.19",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.4.3",
+    "react-scripts": "5.0.1",
+    "react-scroll": "^1.8.9",
+    "react-select": "^5.7.0",
+    "react-slugify": "^3.0.2",
+    "react-stripe-checkout": "^2.6.3",
+    "recharts": "^2.1.16",
+    "redux-persist": "^6.0.0",
+    "sass": "^1.57.0",
+    "styled-components": "^5.3.6",
+    "swiper": "^9.0.4",
+    "web-vitals": "^3.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

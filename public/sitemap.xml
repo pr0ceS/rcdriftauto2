@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+      <loc>https://rcdriftauto.nl/</loc>
+      <lastmod>2023-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+  </url>
+
+  <url>
+      <loc>https://rcdriftauto.nl/autos</loc>
+      <lastmod>2023-05-20</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+  </url>
+
+  <!-- Products -->
+  <!-- <url>
+      <loc>https://rcdriftauto.nl/auto/ergotron-lx-dual-stack-monitor-arm-bildschirm-halterung-set-(45-245-026)</loc>
+      <lastmod>2023-05-18</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+  </url>
+
+  <url>
+      <loc>https://ergotronkaufen.de/produkt/ergotron-lx-dual-direct-monitor-arm-weiss-(45-489-216)</loc>
+      <lastmod>2023-05-18</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+  </url>
+
+  <url>
+      <loc>https://ergotronkaufen.de/produkt/bachmann-desk-2-mit-2x-schuko-+-kabel</loc>
+      <lastmod>2023-05-18</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+  </url>
+
+  <url>
+      <loc>https://ergotronkaufen.de/produkt/ergotron-lx-triple-monitor-arm-bildschirm-halterung-set-(45-245-026)</loc>
+      <lastmod>2023-05-18</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+  </url>
+
+  <url>
+      <loc>https://ergotronkaufen.de/produkt/ergotron-monitorgriff-fur-dual-monitorhalterungen-weiss</loc>
+      <lastmod>2023-05-18</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+  </url>
+
+  <url>
+      <loc>https://ergotronkaufen.de/produkt/ergotron-monitorgriff-fur-dual-monitorhalterungen</loc>
+      <lastmod>2023-05-18</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+  </url>
+
+  <url>
+      <loc>https://ergotronkaufen.de/produkt/ergotron-lx-arm-monitor-durchtischbefestigung-(45-241-026)</loc>
+      <lastmod>2023-05-18</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+  </url>
+
+  <url>
+      <loc>https://ergotronkaufen.de/produkt/ergotron-lx-ersatzteil-verlangerung-extension</loc>
+      <lastmod>2023-05-18</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+  </url>
+
+  <url>
+      <loc>https://ergotronkaufen.de/produkt/ergotron-lx-ersatzteil-arm</loc>
+      <lastmod>2023-05-18</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+  </url>
+
+  <url>
+      <loc>https://ergotronkaufen.de/produkt/ergotron-neo-flex-(45-174-300)</loc>
+      <lastmod>2023-05-18</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+  </url>
+
+  <url>
+      <loc>https://ergotronkaufen.de/produkt/ergotron-lx-arm-monitor-tischhalterung-(45-241-026)</loc>
+      <lastmod>2023-05-18</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+  </url> -->
+
+  <!-- Categories -->
+  <!-- <url>
+      <loc>https://ergotronkaufen.de/produkte/kategorien/monitorarme</loc>
+      <lastmod>2023-05-16</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.6</priority>
+  </url>
+
+  <url>
+      <loc>https://ergotronkaufen.de/produkte/kategorien/zubehor</loc>
+      <lastmod>2023-05-16</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.6</priority>
+  </url>
+
+  <url>
+      <loc>https://ergotronkaufen.de/produkte</loc>
+      <lastmod>2023-05-16</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.6</priority>
+  </url> -->
+
+  <!-- Links -->
+
+	<url>
+      <loc>https://rcdriftauto.nl/klantenservice</loc>
+      <lastmod>2023-05-16</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+  </url>  
+
+	<url>
+      <loc>https://rcdriftauto.nl/winkelwagen</loc>
+      <lastmod>2023-05-16</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.6</priority>
+  </url>
+
+
+  <!-- Rights & Docs -->
+  <url>
+      <loc>https://rcdriftauto.nl/algemenevoorwaarden</loc>
+      <lastmod>2023-05-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+  </url>
+
+ 	<url>
+      <loc>https://rcdriftauto.nl/verzendbeleid</loc>
+      <lastmod>2023-05-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+  </url>
+
+  <url>
+      <loc>https://rcdriftauto.nl/retourbeleid</loc>
+      <lastmod>2023-05-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+  </url>
+
+  <url>
+      <loc>https://rcdriftauto.nl/bedrijfsgegevens</loc>
+      <lastmod>2023-05-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+  </url>
+
+</urlset>
